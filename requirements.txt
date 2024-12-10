@@ -29,4 +29,3 @@ werkzeug==2.0.2
 itsdangerous==2.0.1
 ffmpeg
 youtube-dl
-m3u8-download
