@@ -30,4 +30,3 @@ itsdangerous==2.0.1
 ffmpeg
 youtube-dl
 m3u8-download
-yt-dlp --upgrade
