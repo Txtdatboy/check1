@@ -30,3 +30,4 @@ itsdangerous==2.0.1
 ffmpeg
 youtube-dl
 cloudscraper
+pytube
